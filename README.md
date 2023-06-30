@@ -8,3 +8,4 @@ Exercise repo for the [Introduction to Playwright](https://testautomationu.appli
 - Runs the tests in a specific file: `npx playwright test example`
 - Runs the tests in debug mode: `npx playwright test --debug`
 - Auto generate tests with Codegen: `npx playwright codegen`
+- To open last HTML report run: `npx playwright show-report`
