@@ -1,0 +1,13 @@
+{
+  "name": "tau-playwright-ts",
+  "version": "1.0.0",
+  "description": "Exercise repo for the [Introduction to Playwright](https://testautomationu.applitools.com/playwright-intro/index.html) at [Testautomation University](https://testautomationu.applitools.com)",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.35.1"
+  }
+}
